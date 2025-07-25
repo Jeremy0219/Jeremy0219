@@ -2,8 +2,7 @@
 <a href="https://linkedin.com/in/jeremy-sanchez-004073339/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 
-I’m a sophomore at UTSA with a strong interest in technology and a passion for tackling real-world problems through hands-on learning and creative thinking.
-
+I'm a sophomore at UTSA with a strong interest in technology and like solving real-world problems by learning through experience and thinking in new ways.
 ## Objective
 
 
