@@ -38,7 +38,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-- CompTIA Security+
-
+<div>
+    <img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white" />
+ 
 ## Projects
 - Pi-Hole 
