@@ -6,8 +6,7 @@ I'm a sophomore at UTSA with a strong interest in technology and like solving re
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically seeking an internship to build hands-on experience across diverse areas of the field. Eager to contribute to securing systems and data while expanding skills in both technical and organizational aspects of information security.
 ## Skills
 
 | Skill                                         | Associated Project         |
