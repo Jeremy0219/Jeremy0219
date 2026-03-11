@@ -37,6 +37,7 @@ I am currently **interning at Caterpillar Inc.**, gaining hands-on experience wi
 ## 💻 Projects
 
 - [Pi-Hole](https://github.com/Jeremy0219/Pi-hole) – Linux-based network ad-blocker and DNS management tool.
+- [cloudguard-rag](https://github.com/Jeremy0219/cloudguard-rag) - Rag pipeline for querying cloud security frameworks using Azure OpenAI and Azure AI Search
 
 ---
 
