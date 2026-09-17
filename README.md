@@ -2,7 +2,7 @@
 
 > "Learning through experience, solving real-world problems, and building scalable systems."  
 
-I'm a sophomore at UTSA studying computer science with a strong interest in **cloud computing, infrastructure, and security**.  
+I'm a junior at UTSA studying computer science with a strong interest in **cloud computing, infrastructure, and security**.  
 I am currently **interning at Caterpillar Inc.**, gaining hands-on experience with enterprise IT systems, asset management, and operational support.  
 
 ---
